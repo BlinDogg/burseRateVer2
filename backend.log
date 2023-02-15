@@ -1,0 +1,32 @@
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "sensor" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "sensor" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 225-101-030
+INFO:apscheduler.executors.default:Running job "sensor (trigger: interval[0:00:05], next run at: 2023-02-15 03:05:42 MSK)" (scheduled at 2023-02-15 03:05:42.175764+03:00)
+INFO:apscheduler.executors.default:Job "sensor (trigger: interval[0:00:05], next run at: 2023-02-15 03:05:47 MSK)" executed successfully
+INFO:apscheduler.executors.default:Running job "sensor (trigger: interval[0:00:05], next run at: 2023-02-15 03:05:42 MSK)" (scheduled at 2023-02-15 03:05:42.710471+03:00)
+INFO:apscheduler.executors.default:Job "sensor (trigger: interval[0:00:05], next run at: 2023-02-15 03:05:47 MSK)" executed successfully
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "sensor" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "sensor" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 225-101-030
+INFO:apscheduler.executors.default:Running job "sensor (trigger: interval[0:00:05], next run at: 2023-02-15 03:05:59 MSK)" (scheduled at 2023-02-15 03:05:59.440115+03:00)
+INFO:apscheduler.executors.default:Job "sensor (trigger: interval[0:00:05], next run at: 2023-02-15 03:06:04 MSK)" executed successfully
+INFO:apscheduler.executors.default:Running job "sensor (trigger: interval[0:00:05], next run at: 2023-02-15 03:05:59 MSK)" (scheduled at 2023-02-15 03:05:59.960878+03:00)
+INFO:apscheduler.executors.default:Job "sensor (trigger: interval[0:00:05], next run at: 2023-02-15 03:06:04 MSK)" executed successfully
