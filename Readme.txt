@@ -14,3 +14,5 @@ http://127.0.0.1:5000/pare?coin={ADD1}&valute={ADD2}   #конкретный к�
 
 Поддерживаемые пары: {'BTC': 'KZT'},{'BTC': 'GEL'},
                      {'ETH': 'RUB'},{'ETH': 'USD'}
+                     {'USDT': 'EUR'},{'USDT': 'KZT'},{'USDT': 'GEL'},
+                     {'USDT': 'RUB'},{'USDT': 'USD'}
